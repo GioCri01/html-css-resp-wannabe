@@ -1,0 +1,105 @@
+@media screen and (max-width: 810px) {
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    #lezioni{
+        background-color: rgb(236, 162, 113);
+    }
+
+    .row {
+            width:90%;
+            margin: 0 auto;
+            
+        }   
+        
+    #lezioni .row>.left,
+    #lezioni .row>.right {
+    width: 100%;
+    float: none;
+    
+    
+    }
+
+    #steps .row>.left,
+    #steps .row>.central,
+    #steps .row>.right {
+        width: 100%;
+        float: none;
+        
+    }
+
+    #why{
+        background-color: rgb(236, 162, 113);
+    }
+
+    #lezioni,#steps,#why{
+        padding: 20px 0;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    #lezioni{
+        background-color: rgb(236, 236, 113);
+    }
+
+    .row {
+            width:90%;
+            margin: 0 auto;
+            
+        }   
+        
+    #lezioni .row>.left,
+    #lezioni .row>.right {
+    width: 100%;
+    float: none;
+    
+    
+    }
+
+    #steps .row>.left,
+    #steps .row>.central,
+    #steps .row>.right {
+        width: 100%;
+        float: none;
+        
+    }
+
+    #why{
+        background-color: rgb(236, 236, 113);
+    }
+
+    #lezioni,#steps,#why{
+        padding: 20px 0;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
